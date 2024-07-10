@@ -67,5 +67,6 @@ The 360 motor rotates to the required position (which powder to weight according
 - The program will automatically decide the rotation of the motor to target that specific powder according to the need of the operator.
 
 
-
+## Queries
+For queries and suggestion, email bhajneetbedi2002@gmail.com
 
